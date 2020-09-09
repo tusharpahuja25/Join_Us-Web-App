@@ -27,5 +27,5 @@ This app is a learning on how to connect a <strong>MySQL</strong> database to a 
 
 #### To Run the App
 ```html
-<strong>node app.js</strong>
+**node app.js**
 ```
