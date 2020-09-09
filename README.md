@@ -25,7 +25,7 @@ This app is a learning on how to connect a <strong>MySQL</strong> database to a 
 •	body-parser (to parse incoming requests into JS for us to use in the INSERT statement) -----> npm install body-parser
 
 
-#### To Run the App
+### To Run the App
 ```html
-**node app.js**
+node app.js
 ```
