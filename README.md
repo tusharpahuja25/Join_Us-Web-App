@@ -12,10 +12,11 @@ This app is a learning on how to connect a <strong>MySQL</strong> database to a 
 <br>
 
 ## Technology Used
-Node.js\
-Express.js\
-MySQL\
-HTML/CSS/Javascript
+•	Node.js\
+•	Express.js\
+•	MySQL\
+•	HTML/CSS/Javascript
+
 
 
 ## Dependencies
@@ -23,6 +24,8 @@ HTML/CSS/Javascript
 •	Express (spin up a web server) Express.js, or simply Express, is a web application framework for Node.js\
 •	body-parser (to parse incoming requests into JS for us to use in the INSERT statement) -----> npm install body-parser
 
+
+#### To Run the App
 ```html
-node app.js
+<strong>node app.js</strong>
 ```
