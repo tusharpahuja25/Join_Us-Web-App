@@ -3,10 +3,15 @@
 Build a web app which connects a front-end (website) to a back-end which uses a <strong>MySQL</strong> database.<br>
 This app is a learning on how to connect a <strong>MySQL</strong> database to a <strong>Node.js app</strong> (with Express.js server) using a very basic UI. This app tells user to join the app using email and updates it’s waitlist accordingly.
 <br>Thus, implemented RESTful API using Node.js and Express.js
+<br>
+<br>
+<img src="css/cover.png" >
+<br>
+<br>
 
 ## Installing
 •	NPM install to fetch the dependencies\
-•	create a MySQL database for this app to work. Enter the credentials in app.js file.\
+•	Create a MySQL database for this app to work. Enter the credentials in app.js file.\
 •	Run the app.js file to start the Express server.\
 •	Go to port 8080 in your browser.
 <br>
